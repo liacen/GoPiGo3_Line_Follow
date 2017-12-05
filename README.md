@@ -2,7 +2,7 @@
 
 
 ###GPG_line_followをgitでクローンする
-- `git clone https://gitea.nelsia.net/nelsia/GoPiGo3_LineFollower.git`
+- `git clone https://gitea.nelsia.net/nelsia/GoPiGo3_LineFollower.git`    
 
   
 ###srcフォルダ内にあるline_threshold_set.pyを実行
@@ -11,11 +11,11 @@
 - ラインセンサーの全てを白い部分に乗せて [Enter]
 - 現在の値で良ければ'y'を入力して [Enter]
 - ラインセンサーの全てを黒い部分に乗せて [Enter]
-- 現在の値で良ければ'y'を入力して [Enter]
+- 現在の値で良ければ'y'を入力して [Enter]    
    
 
 ###ライントレースを起動
 - `sudo python line_follow.py`
 
 
-####正常に動作すればこれでライントレースするはず
+####正常に動作すればライントレースするはず
