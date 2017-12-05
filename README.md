@@ -15,7 +15,12 @@
    
 
 ###ライントレースを起動
-- `sudo python line_follow.py`
+- `sudo python line_follow.py`    
+
+
+### 'src/line_follow.py'の詳細
+- 変数`fwd_speed`の値を0-1000で指定すると走るスピードを調節できる
+- 本来97行目とかの関数はもう少し調整が必要
 
 
 ####正常に動作すればライントレースするはず
